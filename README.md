@@ -2,7 +2,7 @@
 
 The original Mobifreaks.com mobile site as a template: home, blog, articles, tutorials and freebies pages.
 
-**[Live demo](https://mobifreaks.github.io/Mobifreaks-Classic-Mobi/)** ·
+**[Live demo](https://mobifreaks.munawarahmed.com/Mobifreaks-Classic-Mobi/)** ·
 [Download zip](https://github.com/mobifreaks/Mobifreaks-Classic-Mobi/archive/HEAD.zip) ·
 [All 22 templates](https://munawarahmed.com/mobifreaks)
 
